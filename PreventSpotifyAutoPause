@@ -1,4 +1,4 @@
-//meta{"ma,e":"PreventSpotifyAutoPause","DisplayName":"PreventSpotifyAutoPause","website:":"https://github.com/kokhouse/discord","source":"https://github.com/kokhouse/discord/blob/main/PreventSpotifyAutoPause"}*//
+//meta{"ma,e":"PreventSpotifyAutoPause","DisplayName":"PreventSpotifyAutoPause","website:":"https://github.com/designategold7/discord","source":"https://github.com/designategold7/discord/blob/main/PreventSpotifyAutoPause"}*//
 /*@cc_on
 @if (@_jscript)
 	
@@ -26,16 +26,16 @@ var PreventSpotifyAutoPause = (() => {
 				info: {
 						name: "PreventSpotifyAutoPause",
 						authors: [{
-								name: "valerian",
-								discord_id: "604225497580175360",
-								github_username: "kokhouse"
-								twitter_username: "valeriantweets"
+								name: "designategold7",
+								discord_id: "1399905239720792165",
+								github_username: "designategold7"
+								twitter_username: "designategold7"
 								
 						}],
 						version: "0.0.4",
 						description: "prevents discord from automatically pausing spotify after transmitting your microphone for 30 seconds.",
-						github: "https://github.com/kokhouse/discord/PreventSpotifyAutoPause.plugin.js",
-						github_raw: "https://raw.githubusercontent.com/kokhouse/discord/PreventSpotifyAutoPause.plugin.js",
+						github: "https://github.com/designategold7/discord/PreventSpotifyAutoPause.plugin.js",
+						github_raw: "https://raw.githubusercontent.com/designategold7/discord/PreventSpotifyAutoPause.plugin.js",
 						
 				},
 				changelog [{
